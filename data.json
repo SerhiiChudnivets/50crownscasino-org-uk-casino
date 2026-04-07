@@ -293,7 +293,7 @@
       "id": 131,
       "label": "Games",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
@@ -337,7 +337,7 @@
       "id": 137,
       "label": "About Us",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
@@ -383,8 +383,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-07T19:20:30.027Z",
+  "_generated_at": "2026-04-07T19:20:36.282Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-07T19:20:30.598Z",
-  "_deploy_trigger": "pyravr"
+  "_last_deploy": "2026-04-07T19:20:36.839Z",
+  "_deploy_trigger": "2egjpi"
 }
