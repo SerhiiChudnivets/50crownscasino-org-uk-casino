@@ -300,35 +300,35 @@
       "id": 132,
       "label": "Sport",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 133,
       "label": "Cybersport",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 134,
       "label": "Promo",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 135,
       "label": "Tournaments",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 136,
       "label": "Lotteries",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     }
   ],
@@ -344,47 +344,47 @@
       "id": 138,
       "label": "Privacy Policy",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 139,
       "label": "Responsible Gaming",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 140,
       "label": "Terms & Conditions",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 141,
       "label": "Betting Rules",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 142,
       "label": "Contacts",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     },
     {
       "id": 143,
       "label": "FAQs",
       "open_in_new_tab": false,
-      "link": null,
+      "link": "https://visquick.com/go",
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-07T19:20:50.491Z",
+  "_generated_at": "2026-04-08T07:56:06.354Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-07T19:20:51.083Z",
-  "_deploy_trigger": "bzl92s"
+  "_last_deploy": "2026-04-08T07:56:06.898Z",
+  "_deploy_trigger": "9vzx1"
 }
