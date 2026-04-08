@@ -25,10 +25,10 @@
       "is_homepage": false,
       "order": 0,
       "createdAt": "2026-04-07T18:53:17.028Z",
-      "updatedAt": "2026-04-07T18:53:17.028Z",
+      "updatedAt": "2026-04-08T18:06:27.485Z",
       "publishedAt": null,
       "locale": null,
-      "template": "default",
+      "template": "landing",
       "faq_title": "Frequently Asked Questions About 50 Crowns Casino",
       "hero_image": null,
       "sections": [],
@@ -383,8 +383,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-08T08:08:38.197Z",
+  "_generated_at": "2026-04-08T18:06:52.888Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-08T08:08:38.725Z",
-  "_deploy_trigger": "hi3sq"
+  "_last_deploy": "2026-04-08T18:06:53.425Z",
+  "_deploy_trigger": "mgxh1a"
 }
