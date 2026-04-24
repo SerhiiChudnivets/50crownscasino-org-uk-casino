@@ -1,7 +1,7 @@
 {
   "name": "50crownscasino.org.uk",
   "site_name": "50 Crowns Casino UK: 100% up to £500 + 100 Free Spins",
-  "html_head": "<meta name=\"description\" content=\"50 Crowns Casino review UK 2026: welcome bonus 100% up to £500 + 100 free spins, 5,000+ games, 149+ providers, crypto withdrawals, monthly quests and VIP 20% cashback. Curaçao licence, not UKGC.\">\n<link rel=\"canonical\" href=\"https://50crownscasino.org.uk/en-GB/\">\n<link rel=\"alternate\" hreflang=\"en-GB\" href=\"https://50crownscasino.org.uk/en-gb/\">",
+  "html_head": "<meta name=\"description\" content=\"50 Crowns Casino review UK 2026: welcome bonus 100% up to £500 + 100 free spins, 5,000+ games, 149+ providers, crypto withdrawals, monthly quests and VIP 20% cashback. Curaçao licence, not UKGC.\">\n<link rel=\"canonical\" href=\"https://50crownscasino.org.uk/en-gb/\">\n<link rel=\"alternate\" hreflang=\"en-GB\" href=\"https://50crownscasino.org.uk/en-gb/\">",
   "url": "50crownscasino.org.uk",
   "template": "tupchiy",
   "language_code": "en",
@@ -384,8 +384,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-24T02:21:33.347Z",
+  "_generated_at": "2026-04-24T02:22:05.611Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-24T02:21:33.867Z",
-  "_deploy_trigger": "6ir3f"
+  "_last_deploy": "2026-04-24T02:22:06.126Z",
+  "_deploy_trigger": "eu7h8p"
 }
