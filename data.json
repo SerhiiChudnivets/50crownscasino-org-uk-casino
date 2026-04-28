@@ -122,11 +122,11 @@
     ]
   },
   "hero_title": "50 Crowns Casino",
-  "hero_subtitle": "Welcome bonus: 100% up to £500 + 100 free spins — use code CROWNS.",
+  "hero_subtitle": "Welcome bonus: 100% up to £500 + 100 free spins",
   "hero_badge": "Welcome Bonus",
   "cta_text": "Play Now",
   "accent_color": "#FCA91D",
-  "tagline": "5,000+ games, 149+ providers, monthly quests, VIP cashback 20%, crypto withdrawals in 0-1h. Not UKGC regulated.",
+  "tagline": "5000+ games, 149+ providers, monthly quests, VIP cashback 20%, crypto withdrawals in 0-1h. Not UKGC regulated.",
   "features_list": null,
   "footer_text": null,
   "popup_text": "Claim 100% up to £500 + 100 Free Spins — use code CROWNS",
@@ -384,8 +384,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-28T13:10:03.083Z",
+  "_generated_at": "2026-04-28T13:13:25.271Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-28T13:12:46.443Z",
-  "_deploy_trigger": "cmksq"
+  "_last_deploy": "2026-04-28T13:13:31.447Z",
+  "_deploy_trigger": "43cad"
 }
